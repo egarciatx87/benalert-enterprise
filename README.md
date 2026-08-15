@@ -56,7 +56,37 @@ BenAlert Enterprise streamlines complex benefit reconciliation workflows between
 
 ## 🚀 Local Installation & Setup
 
-1. **Clone the repository:**
+1. **Clone the repository**
    ```bash
    git clone [https://github.com/egarciatx87/BenAlert-Enterprise.git](https://github.com/egarciatx87/BenAlert-Enterprise.git)
    cd BenAlert-Enterprise
+
+2. **Backend setup (Flask API)**
+   ```bash
+   cd backend
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   pip install -r requirements.txt
+   flask run
+
+3. **Frontend setup (React UI)**
+  ```bash
+   cd ../frontend
+   npm install
+
+4. **Configure environment variables**
+   ```bash
+   REACT_APP_API_BASE_URL=http://localhost:5000/api
+
+5. **Start the local development server**
+   ```bash
+   npm start
+
+## 🧑🏻‍💻 Author
+Esteban Garcia
+
+Full-Stack Software Engineer
+
+LinkedIn: linkedin.com/in/esteban-garcia-esparza
+
+GitHub: github.com/egarciatx87
