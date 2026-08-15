@@ -70,7 +70,7 @@ BenAlert Enterprise streamlines complex benefit reconciliation workflows between
    flask run
    
 3. **Frontend setup (React UI)**
-  ```bash
+   ```bash
    cd ../frontend
    npm install
    ```
@@ -90,6 +90,7 @@ Esteban Garcia
 
 Full-Stack Software Engineer
 
-LinkedIn: linkedin.com/in/esteban-garcia-esparza
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-garcia-esparza)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourwebsite.com) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:egarciatx87@gmail.com)
 
-GitHub: github.com/egarciatx87
