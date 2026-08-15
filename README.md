@@ -68,19 +68,22 @@ BenAlert Enterprise streamlines complex benefit reconciliation workflows between
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    pip install -r requirements.txt
    flask run
-
+   
 3. **Frontend setup (React UI)**
   ```bash
    cd ../frontend
    npm install
+   ```
 
 4. **Configure environment variables**
    ```bash
    REACT_APP_API_BASE_URL=http://localhost:5000/api
+   ```
 
 5. **Start the local development server**
    ```bash
    npm start
+   ```
 
 ## 🧑🏻‍💻 Author
 Esteban Garcia
