@@ -1,6 +1,6 @@
 # 🛡️ BenAlert Enterprise
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-brightgreen?style=for-the-badge&logo=vercel)](https://benalert.demo)
+[![Live Demo](https://img.shields.io/badge/Demo-Video%20Application-brightgreen?style=for-the-badge&logo=vercel)](https://benalert.demo)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/egarciatx87/BenAlert-Enterprise)
 
 > **Enterprise-grade HR compliance and benefits reconciliation portal engineered to automate carrier sync audit verification, flag enrollment discrepancies, and maintain secure, stateless user sessions.**
