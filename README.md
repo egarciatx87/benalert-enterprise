@@ -75,7 +75,7 @@ BenAlert Enterprise streamlines complex benefit reconciliation workflows between
    npm install
    ```
 
-4. **Configure environment variables**
+4. **Configure environment variables (optional)**
    ```bash
    REACT_APP_API_BASE_URL=http://localhost:5000/api
    ```
