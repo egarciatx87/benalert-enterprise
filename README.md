@@ -1,6 +1,7 @@
 # 🛡️ BenAlert Enterprise
 
 [![Live Demo](https://www.loom.com/share/2ade8e8f9a604a24ba16ed188066d6d3)
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/egarciatx87/BenAlert-Enterprise)
 
 > **Enterprise-grade HR compliance and benefits reconciliation portal engineered to automate carrier sync audit verification, flag enrollment discrepancies, and maintain secure, stateless user sessions.**
